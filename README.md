@@ -1,1 +1,2 @@
-# japanese-study
+# japanese-study   
+new word
