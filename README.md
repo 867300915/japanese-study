@@ -1,2 +1,2 @@
 # japanese-study   
-new word
+0720
